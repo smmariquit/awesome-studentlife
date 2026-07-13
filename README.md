@@ -21,11 +21,14 @@ For discounts, software offers, and course resources, see [Awesome Student Resou
 ## Scheduling & student portals
 
 - **[Frappe Education](https://github.com/frappe/education)**: Open-source school-management system with a student portal for timetables, attendance, fees, and grades.
+- **[OpenEduCat](https://github.com/openeducat/openeducat_erp)**: Open-source education ERP for admissions, academics, finance, and student services.
+- **[openSIS](https://github.com/OS4ED/openSIS-Classic)**: Open-source student information system with scheduling, attendance, grades, and communication tools.
 - **[UniTime](https://www.unitime.org/)**: Open-source university timetabling system that reduces student course conflicts.
 
 ## Student communities
 
 - **[ASCA](https://ascainitiative.com/)**: Discord-integrated automation platform for student organizations managing events, payments, bookings, and voting.
+- **[CampusClubs](https://github.com/muhammedogz/CampusClubs)**: University club-management application for events, members, and announcements.
 - **[Revel](https://letsrevel.io/)**: Free, open-source event management platform for community organizers.
 
 ---
