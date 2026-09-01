@@ -17,7 +17,9 @@ For discounts, software offers, and course resources, see [Awesome Student Resou
 ## Campus navigation
 
 - **[Anyplace](https://github.com/dmsl/anyplace)**: Open-source indoor navigation and search service with a campus mode for multiple buildings.
+- **[INDRZ](https://github.com/indrz/indrz-be)**: Open-source indoor mapping and routing service for wayfinding across campus buildings, built on Django and PostGIS.
 - **[OpenIndoorMaps](https://github.com/openindoormaps/openindoormaps)**: Self-hostable, open-source indoor navigation platform for mapping and routing across campus buildings.
+- **[Osiris](https://github.com/osiris-indoor/osiris)**: Open-source indoor mapping server providing GIS APIs and points-of-interest data for campus buildings.
 
 ## Scheduling & student portals
 
@@ -25,6 +27,7 @@ For discounts, software offers, and course resources, see [Awesome Student Resou
 - **[Frappe Education](https://github.com/frappe/education)**: Open-source school-management system with a student portal for timetables, attendance, fees, and grades.
 - **[OpenEduCat](https://github.com/openeducat/openeducat_erp)**: Open-source education ERP for admissions, academics, finance, and student services.
 - **[openSIS](https://github.com/OS4ED/openSIS-Classic)**: Open-source student information system with scheduling, attendance, grades, and communication tools.
+- **[RosarioSIS](https://github.com/francoisjacquet/rosariosis)**: Open-source student information system for scheduling, gradebooks, attendance, and billing.
 - **[UniTime](https://www.unitime.org/)**: Open-source university timetabling system that reduces student course conflicts.
 
 ## Student communities
