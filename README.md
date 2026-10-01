@@ -18,11 +18,13 @@ For discounts, software offers, and course resources, see [Awesome Student Resou
 
 - **[Anyplace](https://github.com/dmsl/anyplace)**: Open-source indoor navigation and search service with a campus mode for multiple buildings.
 - **[OpenIndoorMaps](https://github.com/openindoormaps/openindoormaps)**: Self-hostable, open-source indoor navigation platform for mapping and routing across campus buildings.
+- **[Room TBA](https://github.com/uplbtools/room-tba)**: Open-source campus map and class finder for searching rooms and courses, viewing schedules, and routing between buildings, with offline support.
 
 ## Scheduling & student portals
 
 - **[FenixEdu Academic](https://github.com/FenixEdu/fenixedu-academic)**: Open-source student information system for enrollment, curricula, and academic management, used in production by universities.
 - **[Frappe Education](https://github.com/frappe/education)**: Open-source school-management system with a student portal for timetables, attendance, fees, and grades.
+- **[Gibbon](https://github.com/GibbonEdu/core)**: Open-source school-management platform with student and parent portals for timetabling, attendance, and grades.
 - **[OpenEduCat](https://github.com/openeducat/openeducat_erp)**: Open-source education ERP for admissions, academics, finance, and student services.
 - **[openSIS](https://github.com/OS4ED/openSIS-Classic)**: Open-source student information system with scheduling, attendance, grades, and communication tools.
 - **[UniTime](https://www.unitime.org/)**: Open-source university timetabling system that reduces student course conflicts.
